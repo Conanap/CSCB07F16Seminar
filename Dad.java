@@ -8,6 +8,11 @@ public class Dad extends Rar
                 // can put some more code here if you like
         }
 
+        /**
+        * This function returns a great dad joke
+        * @author Albion
+        * @return a dad joke
+        */
         public String tellDadJoke()
         {
                 return "Why do parallel planes never go out?\nBecause they never meet!";
